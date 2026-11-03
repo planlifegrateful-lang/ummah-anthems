@@ -43,9 +43,21 @@ This pack is designed to compound: one product → content engine → more produ
 
 ---
 
+## Suno audio rights — verify before commercial use
+
+This repository does not grant commercial rights to any Suno-generated recording. Before monetizing or distributing a track, verify the exact track/version was downloaded through Suno's official download channel while the account was subscribed to an eligible paid tier, and confirm the lyrics, source material, and collaborator permissions are clear.
+
+- Free/Basic and trial outputs are for personal, non-commercial use.
+- Suno Remixes are non-commercial even when the account is on a paid tier.
+- Keep the permitted download, plan/tier, and download-date evidence for each track.
+- Suno does not guarantee that copyright will vest in every generated output.
+
+Use Suno's official download menu only. Do not scrape the site, use unofficial download wrappers, record streams, or stream-rip audio.
+
+Sources: [Suno Terms of Service](https://suno.com/terms/), [paid-download rights FAQ](https://help.suno.com/en/articles/9601665), and [download instructions](https://help.suno.com/en/articles/2409921).
+
 ## License
 
-Personal and commercial use of the *generated audio* is allowed.  
 You may not resell the raw lyric files or the pack itself as your own product.
 
 ---
