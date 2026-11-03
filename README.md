@@ -1,47 +1,36 @@
-# Ummah Anthems
+# Ummah Anthems — Draft Lyrics and Suno Prompts
 
-**Creator resource draft**  
-5 Suno-ready Islamic motivational anthem prompts and lyrics + sales-page draft + 30-day content calendar + repeatable production workflow.
+This repository is a **draft music-writing resource**, not a verified commercial release or complete sales package.
 
----
+## What is actually in this repository
 
-## What’s Inside
+- `Lyrics/` — five lyric text files.
+- `Suno-Prompts/MASTER-SUNO-PROMPTS.txt` — one master prompt document.
+- `CONTENT_PROVENANCE.md` — provenance and licensing checks.
+- `RELEASE_MANIFEST.md` — human-review release checklist.
+- `CONTRIBUTING.md` — contribution notes.
 
-| Folder | Contents |
-|--------|----------|
-| **Lyrics/** | 5 complete original songs ready for Suno |
-| **Suno-Prompts/** | Exact style prompts engineered for consistent generation |
-| **Sales-Assets/** | Gumroad / Payhip sales-page draft copy (headline → CTA) |
-| **Content-Calendar/** | 30-day content-planning calendar |
-| **Autopilot-System/** | Reusable song-creation prompts and UGC/TikTok script templates |
+The repository tree inspected for this update does **not** contain generated audio masters, a Gumroad/Payhip sales page, a 30-day content calendar, a working downloader, or an automated publishing system. Do not advertise those items as included until the files and workflows actually exist and have been verified.
 
-### The 5 Tracks
-1. **Don’t Give Up** – 140 BPM dark motivational trap  
-2. **Five Pillars** – 138 BPM cinematic spiritual trap  
-3. **Ummah Wakeup** – 142 BPM urgent call-to-action anthem  
-4. **Pressure Makes Diamonds** – 140 BPM triumphant cinematic trap  
-5. **Start Today** – 136 BPM uplifting motivational trap  
+## The five lyric files
 
----
+1. [Don't Give Up](Lyrics/01-DONT-GIVE-UP.txt)
+2. [Five Pillars](Lyrics/02-FIVE-PILLARS.txt)
+3. [Ummah Wakeup](Lyrics/03-UMMAH-WAKEUP.txt)
+4. [Pressure Makes Diamonds](Lyrics/04-PRESSURE-MAKES-DIAMONDS.txt)
+5. [Start Today](Lyrics/05-START-TODAY.txt)
 
-## Quick Start
+## Master prompt
 
-1. Open `Suno-Prompts/MASTER-SUNO-PROMPTS.txt`
-2. Copy the style prompt + paste the corresponding lyrics into Suno (Custom mode)
-3. Generate 2 versions of each track and pick the strongest
-4. Review the existing sales-page draft; do not publish it unchanged
-5. Do not set or advertise a price from this README. Confirm the current owner-approved price, exact listing URL, checkout, and file delivery in the seller dashboard before promoting.
-6. Start Day 1 of the content calendar after the offer and rights gates are satisfied
+Open [MASTER-SUNO-PROMPTS.txt](Suno-Prompts/MASTER-SUNO-PROMPTS.txt) for the existing generation prompts. A prompt or lyric file is not a finished audio master and does not establish commercial rights.
 
----
+## Safe review workflow
 
-## Repeatable production workflow
-
-Use the files in `Autopilot-System/` as reusable prompts and checklists. They do not automatically generate, publish, or distribute content.
-
-This pack is designed to support a repeatable process: one useful product → consistent content → measured customer feedback.
-
----
+1. Review the exact lyric and prompt version.
+2. Generate or import audio only through the account's authorized Suno workflow.
+3. Record the exact track/version, creation date, applicable subscription tier, official permitted-download date, and source-material/collaborator evidence.
+4. Listen to the full master and review lyrics, audio quality, and any third-party references.
+5. Complete the release manifest and obtain human approval before distribution or commercial use.
 
 ## Suno audio rights — verify before commercial use
 
@@ -56,10 +45,11 @@ Use Suno's official download menu only. Do not scrape the site, use unofficial d
 
 Sources: [Suno Terms of Service](https://suno.com/terms/), [paid-download rights FAQ](https://help.suno.com/en/articles/9601665), and [download instructions](https://help.suno.com/en/articles/2409921).
 
-## License
+## Commercial and release status
 
-You may not resell the raw lyric files or the pack itself as your own product.
+- No current price is approved or established by this README.
+- No buyer checkout or file delivery is verified here.
+- No track is commercially cleared by virtue of being present in this repository.
+- Do not publish, license, sell, or promote any track until the track-level rights evidence and owner approval are recorded.
 
----
-
-Built for creators who want faith-rooted content that actually moves people.
+The repository's release manifest requires accurate README claims, complete asset provenance, and human approval before a distributable release.
