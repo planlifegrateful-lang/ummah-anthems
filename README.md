@@ -1,7 +1,7 @@
 # Ummah Anthems
 
-**Complete digital product pack for creators**  
-5 Suno-ready Islamic motivational anthems + master prompts + sales page + 30-day content calendar + full autopilot system.
+**Creator resource draft**  
+5 Suno-ready Islamic motivational anthem prompts and lyrics + sales-page draft + 30-day content calendar + repeatable production workflow.
 
 ---
 
@@ -10,10 +10,10 @@
 | Folder | Contents |
 |--------|----------|
 | **Lyrics/** | 5 complete original songs ready for Suno |
-| **Suno-Prompts/** | Exact style prompts engineered for consistent commercial results |
-| **Sales-Assets/** | Full Gumroad / Payhip sales page copy (headline → CTA) |
-| **Content-Calendar/** | 30-day Content-to-Cash plan |
-| **Autopilot-System/** | Song creation formula + UGC/TikTok script templates |
+| **Suno-Prompts/** | Exact style prompts engineered for consistent generation |
+| **Sales-Assets/** | Gumroad / Payhip sales-page draft copy (headline → CTA) |
+| **Content-Calendar/** | 30-day content-planning calendar |
+| **Autopilot-System/** | Reusable song-creation prompts and UGC/TikTok script templates |
 
 ### The 5 Tracks
 1. **Don’t Give Up** – 140 BPM dark motivational trap  
@@ -29,17 +29,17 @@
 1. Open `Suno-Prompts/MASTER-SUNO-PROMPTS.txt`
 2. Copy the style prompt + paste the corresponding lyrics into Suno (Custom mode)
 3. Generate 2 versions of each track and pick the strongest
-4. Copy the sales page from `Sales-Assets/GUMROAD-SALES-PAGE.txt` into Gumroad or Payhip
-5. Set price to **$27** and publish
-6. Start Day 1 of the content calendar immediately
+4. Review the existing sales-page draft; do not publish it unchanged
+5. Do not set or advertise a price from this README. Confirm the current owner-approved price, exact listing URL, checkout, and file delivery in the seller dashboard before promoting.
+6. Start Day 1 of the content calendar after the offer and rights gates are satisfied
 
 ---
 
-## Autopilot
+## Repeatable production workflow
 
-Use the files in `Autopilot-System/` to keep producing new tracks and content without starting from zero every time.
+Use the files in `Autopilot-System/` as reusable prompts and checklists. They do not automatically generate, publish, or distribute content.
 
-This pack is designed to compound: one product → content engine → more products.
+This pack is designed to support a repeatable process: one useful product → consistent content → measured customer feedback.
 
 ---
 
