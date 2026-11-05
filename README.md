@@ -37,13 +37,13 @@ Open [MASTER-SUNO-PROMPTS.txt](Suno-Prompts/MASTER-SUNO-PROMPTS.txt) for the exi
 This repository does not grant commercial rights to any Suno-generated recording. Before monetizing or distributing a track, verify the exact track/version was created while the account was subscribed to an eligible Pro/Premier tier and was downloaded through Suno's official permitted channel while that paid subscription was active. Also confirm the lyrics, source material, and collaborator permissions are clear. A later subscription does not retroactively grant commercial rights to a song made on the free plan. If the creation date, download date, or plan is unclear, keep the track non-commercial.
 
 - Free/Basic and trial outputs are for personal, non-commercial use.
-- Suno Remixes are non-commercial even when the account is on a paid tier.
+- Do not assume a Remix is commercially cleared. Suno's Terms broadly restrict commercial use of Remixes, while the Help Center describes a limited exception for an original creator's own Remix when a paid download credit is used. Keep every Remix blocked until the exact original-creator and paid-download evidence is verified; a paid subscription alone is not enough.
 - Keep the permitted download, plan/tier, and download-date evidence for each track.
 - Suno does not guarantee that copyright will vest in every generated output.
 
 Use Suno's official download menu only. Do not scrape the site, use unofficial download wrappers, record streams, or stream-rip audio.
 
-Sources: [Suno Terms of Service](https://suno.com/terms/), [paid-download rights FAQ](https://help.suno.com/en/articles/9601665), and [download instructions](https://help.suno.com/en/articles/2409921).
+Sources: [Suno Terms of Service](https://suno.com/terms/), [paid-download rights FAQ](https://help.suno.com/en/articles/9601665), [Remix monetization guidance](https://help.suno.com/en/articles/9604993), and [download instructions](https://help.suno.com/en/articles/2409921).
 
 ## Commercial and release status
 
